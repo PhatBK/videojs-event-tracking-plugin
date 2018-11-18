@@ -1,0 +1,22 @@
+{
+  "name": "videojs-event-tracking-plugin",
+  "version": "1.0.0",
+  "description": "videojs event tracking",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhatBK/videojs-event-tracking-plugin.git"
+  },
+  "author": "phatnh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhatBK/videojs-event-tracking-plugin/issues"
+  },
+  "homepage": "https://github.com/PhatBK/videojs-event-tracking-plugin#readme",
+  "dependencies": {
+    "video.js": "^7.3.0"
+  }
+}
