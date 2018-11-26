@@ -17,3 +17,15 @@ https://medium.com/@cabot_solutions/flux-the-react-js-application-architecture-a
 https://medium.com/@cabot_solutions/flux-the-react-js-application-architecture-a-comprehensive-study-fd2585d06483
 
 https://www.ibm.com/blogs/bluemix/2017/06/react-web-express-api-development-production/
+
+https://blog.pusher.com/react-laravel-application/
+
+https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/
+
+https://medium.com/maintainable-react-apps/react-apps-approaching-organization-structure-architecture-49a281bd97eb
+
+https://thelifekiss.com/posts/tech/how-to-better-organize-your-react-applications/
+
+https://viblo.asia/p/huong-dan-co-ban-ve-cach-ket-hop-laravel-55-voi-reactjs-Qbq5QgPRZD8
+
+https://reactjs.org/blog/2014/07/30/flux-actions-and-the-dispatcher.html
