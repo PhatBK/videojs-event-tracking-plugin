@@ -42,3 +42,5 @@ http://engineering.kapost.com/2016/01/organizing-large-react-applications/
 
 https://fullstackstation.com/huong-dan-cau-truc-thu-muc-va-cach-viet-component-chuan-trong-react/
 
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+
