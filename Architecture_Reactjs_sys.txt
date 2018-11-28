@@ -29,3 +29,16 @@ https://thelifekiss.com/posts/tech/how-to-better-organize-your-react-application
 https://viblo.asia/p/huong-dan-co-ban-ve-cach-ket-hop-laravel-55-voi-reactjs-Qbq5QgPRZD8
 
 https://reactjs.org/blog/2014/07/30/flux-actions-and-the-dispatcher.html
+
+https://viblo.asia/p/cau-truc-ung-dung-react-js-L4x5xN1OZBM
+
+https://thelifekiss.com/posts/tech/how-to-better-organize-your-react-applications/
+
+https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
+
+https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
+
+http://engineering.kapost.com/2016/01/organizing-large-react-applications/
+
+https://fullstackstation.com/huong-dan-cau-truc-thu-muc-va-cach-viet-component-chuan-trong-react/
+
