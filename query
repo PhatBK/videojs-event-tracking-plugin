@@ -1,0 +1,34 @@
+'index' => 'filmportal-log-transaction',
+                        'type' => 'logs',
+                        'body' =>
+                            [
+                            "size" => 0,
+                            "query" => [
+                                "bool" => $queryFilter
+                            ],
+                            "aggs" => [
+                                "group_by_other" => [
+                                    "terms" => [
+                                        "field" => "other_info_field_0.keyword"
+                                    ],
+                                    "aggs" => [
+                                        "REG" => [
+                                            "filter" => [
+                                                "term" => [
+                                                    "action" => "reg"
+                                                ]
+                                            ],
+                                            "aggs" => [
+                                                "revenue_reg" => [
+                                                    "sum" => [
+                                                        "field" => "fee"
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+]
+ 
